@@ -1,0 +1,65 @@
+.education-section {
+  padding: 2rem 1rem;
+  transition: background 0.3s, color 0.3s;
+  text-align: center;
+}
+
+.education-section.light {
+  background-color: #f9f9f9;
+  color: #222;
+}
+
+.education-section.dark {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.education-carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.education-card {
+  flex: 0 0 80%;
+  scroll-snap-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  min-width: 250px;
+  max-width: 350px;
+  margin: auto;
+  transition: transform 0.3s;
+}
+
+.education-card:hover {
+  transform: scale(1.02);
+}
+
+.edu-logo img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+.edu-details h3 {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.edu-details .institute,
+.edu-details .duration {
+  font-size: 1rem;
+  margin: 0.2rem 0;
+}

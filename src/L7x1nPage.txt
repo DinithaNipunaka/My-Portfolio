@@ -1,0 +1,11 @@
+# Project Ownership and Rights
+
+This project or parts of its logic, design, or code base are originally developed by:
+
+**D.D.N Kumarasiri**
+
+All rights are reserved and credited to the original developer.
+
+Please do not redistribute or publish this work without proper acknowledgment.
+
+© 2025 D.D.N Kumarasiri

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d03808a.css",
+    "main.js": "/static/js/main.865b5330.js",
+    "static/js/453.ade82335.chunk.js": "/static/js/453.ade82335.chunk.js",
+    "static/media/siba-logo.png": "/static/media/siba-logo.5c85f46756418b4a98b6.png",
+    "static/media/inrocyber.jpg": "/static/media/inrocyber.5f89e4108242314654f8.jpg",
+    "static/media/Introduction to Modern AI.png": "/static/media/Introduction to Modern AI.ce97224f7066d0ad9f00.png",
+    "static/media/micrsoft.jpg": "/static/media/micrsoft.56b830d483ca47a93560.jpg",
+    "static/media/po.png": "/static/media/po.07367c60a62b915225ac.png",
+    "static/media/profile.jpg": "/static/media/profile.0738c770c050de47de03.jpg",
+    "static/media/Ethical Hacker.png": "/static/media/Ethical Hacker.35390580a8bc9024f5b5.png",
+    "index.html": "/index.html",
+    "main.0d03808a.css.map": "/static/css/main.0d03808a.css.map",
+    "main.865b5330.js.map": "/static/js/main.865b5330.js.map",
+    "453.ade82335.chunk.js.map": "/static/js/453.ade82335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d03808a.css",
+    "static/js/main.865b5330.js"
+  ]
+}
